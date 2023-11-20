@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+- Readme build guide https://www.sitepoint.com/github-profile-readme/
 -->
 
 ---
@@ -31,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### Certifications :
--   <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" title="React" alt="React" width="80" height="80"/> &nbsp; [Microsoft Certified: Azure Database Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/ChandanSomani-5876/E9F9343ED01E0C18?sharingId=2B0BE070152ACECE)
+<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" title="React" alt="React" width="80" height="80"/> &nbsp; [Microsoft Certified: Azure Database Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/ChandanSomani-5876/E9F9343ED01E0C18?sharingId=2B0BE070152ACECE)
 
 
 ---
