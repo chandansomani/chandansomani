@@ -30,9 +30,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-chandansomani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandansomani)
 
 ---
+### Certifications :
+-   <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" title="React" alt="React" width="80" height="80"/> &nbsp; [Microsoft Certified: Azure Database Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/ChandanSomani-5876/E9F9343ED01E0C18?sharingId=2B0BE070152ACECE)
+
+
+---
 
 ### :hammer_and_wrench: Technologies I'm working on
 <div>
+  Assembly, C,C++, C#, .NET Framework, .Net Core, .NET, ASP.NET, WEBAPI, MSSQL, TSQL, Database Administrator, Azure SQL, Web Development, PHP 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -52,7 +58,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandansomani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### :man_technologist: Connect with at :
+### :man_technologist: Connect with me @
 <div id="badges">
   <a href="https://www.linkedin.com/in/chandansomani">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -62,5 +68,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>
   <a href="https://www.facebook.com/chandan.somani">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+  </a>  
 </div>
