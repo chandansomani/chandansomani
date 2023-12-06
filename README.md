@@ -31,9 +31,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I'm developing an WebApp that focuses on Minimalistic user input, error free data, Super Fast User Input GUI.
+- :zap: In my free time, I'm developing a WebApp that focuses on Minimalistic user input, error-free data, and Super Fast User Input GUI.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-chandansomani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandansomani)
+- 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-chandansomani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandansomani)
 
 ---
 ### Certifications :
