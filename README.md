@@ -74,5 +74,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>
   <a href="https://www.facebook.com/chandan.somani">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>  
+  </a>
+  <a href="https://www.w3profile.com/chandansomani">
+    <img src="https://img.shields.io/badge/W3Schools-green?style=for-the-badge&logo=w3school&logoColor=white" alt="W3Schools Badge"/>
+  </a>
 </div>
