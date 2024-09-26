@@ -45,9 +45,14 @@ Software Engineer
 
 *   🌍  I'm based in Pune, India
 *   ✉️  You can contact me at [chandansomani@gmail.com](mailto:chandansomani@gmail.com)
-*   🚀  I'm currently working on [Visual Studio Project Templates, Extensions](http://chandansomani.github.io)
-*   🧠  I'm learning React, C# .Net Core
-*   🤝  I'm open to collaborating on React, Angular, Front-End Solutions, & Backend - C#
+*   🚀  I'm currently working on Audit Domain for a renowned Organisation (Big4) as a SDE,
+*   🚀  I'm have worked on
+*           Organisation Dashboard WebApp in react & .netcore Webapi, Complete Organic User management & SSO Login
+*           Visual Studio - Extensions - Project Templates - MultiScope Template,
+*           Orcale Utilities Frontend SPFx React WebApp,
+*           HealthCare Domain - Website in PHP & MySQL hosted on AWS Instance having S3 bucket, ExtJS, PHPSpreadsheet, Migration of MySQL, DBA, Apache & Database Server Configuration on Rocky Linux Server Instance, Configuration of CRONs, SELinux for Production & Go                Live
+*   🧠  I'm sharping my skills in React, C# .Net Core, Nodejs, Express
+*   🤝  I'm open to collaborating on React Front-End Solutions, & Backend - C#
 
 ---
 ### Certifications :
