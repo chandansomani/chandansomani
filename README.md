@@ -47,10 +47,11 @@ Software Engineer
 *   ✉️  You can contact me at [chandansomani@gmail.com](mailto:chandansomani@gmail.com)
 *   🚀  I'm currently working on Audit Domain for a renowned Organisation (Big4) as a SDE,
 *   🚀  I'm have worked on
-*           Organisation Dashboard WebApp in react & .netcore Webapi, Complete Organic User management & SSO Login
-*           Visual Studio - Extensions - Project Templates - MultiScope Template,
+*           Audit Domain - WebApp in React & .NetCore Microservice, on Azure, AzureSQL DB, Azure Data Factory, AzureFunctions, Complete Organic WebApp for management in one of the Big 4s.
 *           Orcale Utilities Frontend SPFx React WebApp,
 *           HealthCare Domain - Website in PHP & MySQL hosted on AWS Instance having S3 bucket, ExtJS, PHPSpreadsheet, Migration of MySQL, DBA, Apache & Database Server Configuration on Rocky Linux Server Instance, Configuration of CRONs, SELinux for Production & Go                Live
+*           Visual Studio - Extensions - Project Templates - MultiScope Template,
+*           Organisation Dashboard WebApp in react & .netcore Webapi, Complete Organic User management & SSO Login
 *   🧠  I'm sharping my skills in React, C# .Net Core, Nodejs, Express
 *   🤝  I'm open to collaborating on React Front-End Solutions, & Backend - C#
 
